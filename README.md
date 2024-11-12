@@ -1,6 +1,3 @@
-Here’s a well-formatted GitHub README with markdown syntax for clarity:
-
----
 
 # Image Creation by Circles
 
@@ -33,7 +30,10 @@ This project creates an animation where circles simulate pixels to form an image
    ```bash
    pip install -r requirements.txt
    ```
-4. Place your image in the project folder as `image.png`, or update the `image_path` in `main.py` to use a different image.
+
+4. **Add an Image**:
+   - Place an image file named `image.png` in the project folder. 
+   - Alternatively, edit the `image_path` variable in `main.py` to point to a different image file.
 
 ## Usage
 
@@ -75,5 +75,3 @@ If you're new to Python and Visual Studio Code, follow these steps:
 
 ## Credits
 This project uses open-source libraries like `pymunk` for physics and `matplotlib` for animations. Special thanks to these projects for enabling rich, animated visualizations.
-
----
