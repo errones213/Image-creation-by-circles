@@ -32,7 +32,7 @@ This project creates an animation where circles simulate pixels to form an image
    ```
 
 4. **Add an Image**:
-   - Place an image file named `image.png` in the project folder. 
+   - Place an image file named `Example_Image.png` in the project folder. 
    - Alternatively, edit the `image_path` variable in `main.py` to point to a different image file.
 
 ## Usage
